@@ -7,7 +7,7 @@ import java.util.Properties;
 public class DBUtil {
 	private static final String DB_DRIVER_CLASS="com.mysql.cj.jdbc.Driver";
 	private static final String DB_USERNAME="root";
-	private static final String DB_PASSWORD="admin";
+	private static final String DB_PASSWORD="root123";
 	private static final String DB_URL ="jdbc:mysql://localhost:3306/jdbcdb";
 	
 	private static Connection connection = null;
