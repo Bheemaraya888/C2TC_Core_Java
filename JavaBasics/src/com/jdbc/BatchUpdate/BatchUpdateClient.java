@@ -1,10 +1,10 @@
-package BatchUpdate;
+package com.jdbc.BatchUpdate;
 
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import usingStatement.DBUtil1;
+import com.jdbc.usingStatement.DBUtil1;
 
 public class BatchUpdateClient {
 	public static void main(String[] args) throws SQLException {

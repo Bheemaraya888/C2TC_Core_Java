@@ -1,11 +1,11 @@
-package ResultSet;
+package com.jdbc.ResultSet;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import usingStatement.DBUtil1;
+import com.jdbc.usingStatement.DBUtil1;
 
 public class ResultSetClient {
 

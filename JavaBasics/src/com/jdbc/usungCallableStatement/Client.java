@@ -1,4 +1,4 @@
-package usungCallableStatement;
+package com.jdbc.usungCallableStatement;
 
 import java.sql.Connection;
 import java.sql.SQLException;

@@ -1,4 +1,4 @@
-package usingPreparedStatement;
+package com.jdbc.usingPreparedStatement;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
